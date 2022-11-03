@@ -1,4 +1,4 @@
-# KIM YO HAN 
+# YoHan's GitHub
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=FCAACF&height=300&section=header&text=Welcome!%20Yohan's%20GitHub&fontSize=60&animation=fadeIn&fontAlignY=38&" />	
 </div>
