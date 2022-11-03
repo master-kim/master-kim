@@ -1,6 +1,6 @@
 # KIM YO HAN 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20Yohan's%20GitHub&fontSize=60&animation=fadeIn&fontAlignY=38&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FCAACF&height=300&section=header&text=Welcome!%20Yohan's%20GitHub&fontSize=60&animation=fadeIn&fontAlignY=38&)
 
 ![Yohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=master-kim&show_icons=true&theme=radical) 
 
