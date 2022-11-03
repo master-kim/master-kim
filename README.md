@@ -2,9 +2,11 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=FCAACF&height=300&section=header&text=Welcome!%20Yohan's%20GitHub&fontSize=60&animation=fadeIn&fontAlignY=38&" />	
 </div>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=master-kim&show_icons=true&theme=radical" width:50%/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=master-kim&show_icons=true&theme=radical" width:49% height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-kim&text_color=A8FDF6&bg_color=141321&title_color=FD428D" width:49% height="200"/>
 </div>
+
 
 # 📚Tech Stack
 ### Skill
